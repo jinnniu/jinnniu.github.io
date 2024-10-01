@@ -47,6 +47,7 @@ html {
 
 .worktable__list:hover {
   color: blue;
+  text-decoration: underline dotted;
 }
 
 .worktable__list p:first-of-type:before {
